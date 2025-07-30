@@ -1,4 +1,4 @@
-# zip-secure-macos-password-cleanup
+# secure-zip-mac
 macOS专用加密压缩工具，支持自动密码存储和及时清除，确保数据安全
 ①右键快速压缩文件/文件夹
 ②自动生成强密码并存入钥匙串
